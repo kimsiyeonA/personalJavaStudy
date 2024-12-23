@@ -1,0 +1,19 @@
+package day2;
+
+public class Day02Ex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		 안녕> 빨간줄 오류 인식(정해놓은 명령이 아니라서)
+		/*
+		 * 다음줄은 주석처리가 안됨 여러줄 주석
+		 */
+		System.out.println("hello");
+		
+		
+		
+		
+
+	}
+
+}

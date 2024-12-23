@@ -1,0 +1,35 @@
+package day2;
+
+public class Day02Ex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		 안녕> 빨간줄 오류 인식(정해놓은 명령이 아니라서)
+		/*
+		 * 다음줄은 주석처리가 안됨 여러줄 주석
+		 */
+		System.out.print("hello");
+		
+		System.out.print("문자열값"); // 문자열 값
+		System.out.print("A"); // 문자형 값
+		System.out.print(100); // 정수형 값
+		System.out.print(3.14); // 실수형 값
+		
+		System.out.println(); //공란일 때 그냥 줄바꿈		
+		System.out.println();
+		System.out.println("문자열값"); // 문자열 값
+		System.out.println("A"); // 문자형 값
+		System.out.println(100); // 정수형 값
+		System.out.println(3.14); // 실수형 값
+		
+		System.out.println();		
+		System.out.println();
+		System.out.printf("%s","문자열값"); // 문자열 값
+		System.out.printf("%c",'A'); // 문자형 값
+		System.out.printf("%d",100); // 정수형 값
+		System.out.printf("%f",3.14); // 실수형 값		
+		
+
+	}
+
+}

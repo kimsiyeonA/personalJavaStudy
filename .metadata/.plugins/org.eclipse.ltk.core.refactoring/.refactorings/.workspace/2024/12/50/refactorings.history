@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from workspace&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     module-info.java&#x0D;&#x0A;     module-info.java&#x0D;&#x0A;     module-info.java" description="Delete elements" element1="=day04/src&lt;{module-info.java" element2="=day03/src&lt;{module-info.java" element3="=day05/src&lt;{module-info.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1734148475957" subPackages="false" version="1.0"/>
+</session>
